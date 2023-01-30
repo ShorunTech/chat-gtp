@@ -5,9 +5,11 @@ function App() {
   return (
     <div className="App">
         <aside className="sidemenu">
-          <h1>Aside</h1>
+          <div className="side-menu-button">
+                New Chat
+          </div>
         </aside>
-        <section classname="chatbox">
+        <section className="chatbox">
 
         </section>
    
