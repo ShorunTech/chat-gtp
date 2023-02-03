@@ -85,30 +85,27 @@
 }
 
 .chat-log {
-  padding:24px;
-  text-align:left;
+    padding: 24px;
+    text-align: left;
 }
 
 .chat-message {
- padding:12px;
-  display:flex;
-  padding-left: 40px;
-  padding-right: 40px;
-
-
+    padding: 12px;
+    display: flex;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .avatar {
-  background:white;
-  border-radius:50%;
-  width: 40px;
-  height: 40px;
-
+    background: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
 }
 
 .message {
-
-
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 @keyframes App-logo-spin {
