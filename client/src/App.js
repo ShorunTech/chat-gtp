@@ -12,7 +12,19 @@ function App() {
         </aside>
         <section className="chatbox">
         <div className="chat-log">
-            <div className="chat-message">
+            <div className="chat-message chatgpt">
+              <div className="chat-message-center">
+
+              
+                  <div className="avatar">
+                       
+                  </div>
+              <div className="message">
+                Hello World
+              </div>
+            </div>
+            </div>
+            <div className="chat-message chatgpt">
               <div className="chat-message-center">
 
               
