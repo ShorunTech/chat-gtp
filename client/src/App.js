@@ -31,9 +31,7 @@ function App() {
                   <div className="avatar">
                        
                   </div>
-              <div className="message">
-                I am AI
-              </div>
+              
             </div>
             </div>
           </div>
