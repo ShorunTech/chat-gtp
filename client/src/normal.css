@@ -36,6 +36,14 @@ html {
     box-sizing: border-box;
 }
 
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
 
 /**
  * Render the `main` element consistently in IE.
