@@ -36,14 +36,6 @@ html {
     box-sizing: border-box;
 }
 
-*,
-*::before,
-*::after {
-    -webkit-box-sizing: inherit;
-    -moz-box-sizing: inherit;
-    box-sizing: inherit;
-}
-
 
 /**
  * Render the `main` element consistently in IE.
@@ -117,6 +109,7 @@ abbr[title] {
     text-decoration: underline dotted;
     /* 2 */
 }
+
 
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
