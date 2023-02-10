@@ -43,12 +43,7 @@ function App() {
           placeholder="Type your message here">
 
           </textarea>
-          <section>
-            <div className = "">
-
-            </div>
-          </section>
-
+        
 
         </div>
         </section>
