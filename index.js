@@ -9,6 +9,11 @@ const configuration = new Configuration({
 
 const openai = new OpenAIApi(configuration);
 
+const app = express()
+const port = 3000 
+
+const openai = new OpenAIApi(configuration);
+
 async function callApi() { 
     const response = await openai.createCompletion({
       model: "text-davinci-003",
