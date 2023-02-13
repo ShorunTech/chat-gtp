@@ -13,3 +13,9 @@ async function callApi() {
        max_tokens: 7,
        temperature: 0,
   });
+
+  console.log(response.data.choices[0].text)
+
+}
+
+callApi()
