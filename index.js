@@ -20,6 +20,16 @@ app.post('/', async (req, res) => {
     temperature: 0,
   });
 
+    console.log(response.data.choices[0].text)
+  res.json({
+    data: response.data
+  })
+
+
+})
+
+
+
 const openai = new OpenAIApi(configuration);
 
 async function callApi() { 
