@@ -38,12 +38,7 @@ function App() {
             </div>
           </div>
         <div className="chat-input-holder">
-        <textarea
-          rows="1" className="chat-input-textarea"
-          placeholder="Type your message here">
-
-          </textarea>
-        
+      
 
         </div>
         </section>
