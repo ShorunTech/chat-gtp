@@ -110,6 +110,10 @@
     height: 40px;
 }
 
+.message {
+    padding-left: 40px;
+    padding-right: 40px;
+}
 
 @keyframes App-logo-spin {
     from {
