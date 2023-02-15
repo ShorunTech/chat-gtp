@@ -32,7 +32,7 @@ function App() {
                        
                   </div>
                   <div className="message">
-                I am AI
+                I am AI you can talk to me
               </div>
             </div>
             </div>
