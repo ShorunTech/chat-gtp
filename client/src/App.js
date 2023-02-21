@@ -22,9 +22,7 @@ function App() {
               <div className="message">
                 Hello World 
               </div>
-              <div className="message">
-                Hello World 
-              </div>
+              
 
             </div>
             </div>
