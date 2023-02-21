@@ -19,7 +19,9 @@ function App() {
                   <div className="avatar">
                        
                   </div>
-              
+              <div className="message">
+                Hello World 
+              </div>
             </div>
             </div>
             <div className="chat-message chatgpt">
